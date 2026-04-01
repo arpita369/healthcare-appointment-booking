@@ -1,0 +1,13 @@
+# Ignore Node modules
+node_modules/
+
+# Ignore build directories
+build/
+
+# Ignore environment files
+.env.local
+
+# Ignore MacOS system files
+.DS_Store
+
+# Add any other development artifacts that should be ignored here
