@@ -25,7 +25,7 @@ Frontend:
 
 ## Prerequisites
 
-- Java 17+ (or the version required by your `pom.xml` files)
+- Java 17+
 - Maven 3.8+
 - Node.js 18+ and npm 9+
 
