@@ -28,7 +28,6 @@ Frontend:
 - Java 17+ (or the version required by your `pom.xml` files)
 - Maven 3.8+
 - Node.js 18+ and npm 9+
-- Optional: Docker for containerized deployment
 
 ## Setup and Run
 
